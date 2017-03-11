@@ -1,0 +1,9 @@
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\bin\Debug\Funciones.exe.config
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\bin\Debug\Funciones.exe
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\bin\Debug\Funciones.pdb
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\obj\Debug\Funciones.csprojResolveAssemblyReference.cache
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\obj\Debug\Funciones.Form1.resources
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\obj\Debug\Funciones.Properties.Resources.resources
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\obj\Debug\Funciones.csproj.GenerateResource.Cache
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\obj\Debug\Funciones.exe
+c:\users\malen\documents\visual studio 2012\Projects\Funciones\Funciones\obj\Debug\Funciones.pdb
